@@ -1,0 +1,8 @@
+{
+    "latex-workshop.latex.recipes": [
+        {
+          "name": "compile with pythontex enabled",
+          "tools": ["pdflatex"]
+        }
+      ],
+}
